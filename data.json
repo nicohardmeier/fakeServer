@@ -1,0 +1,178 @@
+{
+    "revenue": [{
+            "name": "Smartphone",
+            "amount": 80000,
+            "percent": 40
+        },
+        {
+            "name": "Tablet",
+            "amount": 120000,
+            "percent": 60
+        },
+        {
+            "label": "Revenue",
+            "currency": true
+        },
+        {
+            "Annual report": [
+
+                {
+                    "Year": 2006,
+                    "Total": "350"
+                },
+                {
+                    "Year": 2007,
+                    "Total": "533"
+                },
+                {
+                    "Year": 2008,
+                    "Total": "494"
+                },
+                {
+                    "Year": 2009,
+                    "Total": "523"
+                },
+                {
+                    "Year": 2010,
+                    "Total": "481"
+                },
+                {
+                    "Year": 2011,
+                    "Total": "513"
+                },
+                {
+                    "Year": 2012,
+                    "Total": "511"
+                },
+                {
+                    "Year": 2013,
+                    "Total": "549"
+                },
+                {
+                    "Year": 2014,
+                    "Total": "395"
+                }
+            ]
+        }
+
+    ],
+
+    "impresions": [{
+            "name": "Smartphone",
+            "amount": 30000000,
+            "percent": 60
+        },
+        {
+            "name": "Tablet",
+            "amount": 20000000,
+            "percent": 40
+        },
+        {
+            "label": "Impresions",
+            "currency": false
+        },
+        {
+            "Annual report": [
+
+                {
+                    "Year": 2006,
+                    "Total": "330"
+                },
+                {
+                    "Year": 2007,
+                    "Total": "463"
+                },
+                {
+                    "Year": 2008,
+                    "Total": "454"
+                },
+                {
+                    "Year": 2009,
+                    "Total": "460"
+                },
+                {
+                    "Year": 2010,
+                    "Total": "421"
+                },
+                {
+                    "Year": 2011,
+                    "Total": "413"
+                },
+                {
+                    "Year": 2012,
+                    "Total": "421"
+                },
+                {
+                    "Year": 2013,
+                    "Total": "399"
+                },
+                {
+                    "Year": 2014,
+                    "Total": "300"
+                }
+            ]
+        }
+
+
+    ],
+
+    "visits": [{
+            "name": "Smartphone",
+            "amount": 120000000,
+            "percent": 20
+        },
+        {
+            "name": "Tablet",
+            "amount": 480000000,
+            "percent": 80
+        },
+        {
+            "label": "Visits",
+            "currency": false
+        },
+        {
+            "Annual report": [
+
+                {
+                    "Year": 2006,
+                    "Total": "398"
+                },
+                {
+                    "Year": 2007,
+                    "Total": "493"
+                },
+                {
+                    "Year": 2008,
+                    "Total": "484"
+                },
+                {
+                    "Year": 2009,
+                    "Total": "513"
+                },
+                {
+                    "Year": 2010,
+                    "Total": "491"
+                },
+                {
+                    "Year": 2011,
+                    "Total": "513"
+                },
+                {
+                    "Year": 2012,
+                    "Total": "511"
+                },
+                {
+                    "Year": 2013,
+                    "Total": "539"
+                },
+                {
+                    "Year": 2014,
+                    "Total": "315"
+                }
+            ]
+        }
+
+
+    ]
+
+}
